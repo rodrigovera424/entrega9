@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{"C:\\Users\\rodri\\Downloads\\ProyectosReact\\CeroMPrint\\app\\layout.tsx":["C:\\Users\\rodri\\Downloads\\ProyectosReact\\CeroMPrint\\app\\globals.css"]},"cssModules":{"C:\\Users\\rodri\\Downloads\\ProyectosReact\\CeroMPrint\\app\\page":["C:\\Users\\rodri\\Downloads\\ProyectosReact\\CeroMPrint\\app\\globals.css"]}}
